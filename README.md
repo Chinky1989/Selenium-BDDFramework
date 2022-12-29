@@ -3,11 +3,11 @@
 <h2>This framework contains sample code containing:</h2>
 	<ul><li>1 feature (feature file)</li></ul>
 	<ul><li>1 Scenarios</li>
-	<li>Simple scenario login scenario and logout</li>
+	<li>scenario login and logout</li>
 	 
 <h2>Directory structure:</h2>
 <br>
-<img src="" title = "project structure"/>
+<img src="https://github.com/avikrish-ak/Selenium-BDDFramework/blob/main/src/test/resources/Images/ProjectStructure.PNG" title = "project structure"/>
 
 <br>
 
@@ -25,16 +25,14 @@
 	<br>
 <h2>Folders for these reports:</h2>
 <br>
-<img src = "" title = "cucumber pretty report"/>
+<img src = "https://github.com/avikrish-ak/Selenium-BDDFramework/blob/main/src/test/resources/Images/CucumberIndex.PNG" title = "cucumber pretty report"/>
 <br>
 
 <h2>Snapshots - Cucumber - Pretty - Report: See here </h2>
 <br>
 <ul>
-<li><a href = "" title = "cucumber pretty and advanced">Cucumber-pretty summarized</a></li>
+<li><a href = "https://github.com/avikrish-ak/Selenium-BDDFramework/blob/main/src/test/resources/Images/CucumberReport.PNG" title = "cucumber pretty">Cucumber-pretty summarized</a></li>
 </ul>
-
-
 	
 <h2>See configuration in "pom.xml" file</h2>
 
